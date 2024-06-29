@@ -15,3 +15,4 @@ HTML5, CSS, Figma, PS
 BSU (Minsk), lawyer
 ### Languages
 Russian, belarusian, english (Intermediate - B1)
+
