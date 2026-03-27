@@ -1,9 +1,9 @@
 # Lipskaya Kristina
 ## Contacts
 
-E-mail: kristina.guter@yandex.ru
-Telegram: @kris_lip
-GitHub: https://github.com/KrisLips
+* **E-mail**: kristina.guter@yandex.ru
+* **Telegram**: @kris_lip
+* **GitHub**: https://github.com/KrisLips
 
 *******
 ## About Me
@@ -13,11 +13,11 @@ Highly organized and motivated professional with a strong commitment to continuo
 *******
 ## Skills
 
-HTML5, CSS3
-JavaScript Basics
-VS Code
-Adobe Photoshop, Illustrator
-Figma
+*HTML5, CSS3
+*JavaScript Basics
+*VS Code
+*Adobe Photoshop, Illustrator
+*Figma
 
 *******
 ## Code Examples
@@ -44,6 +44,6 @@ RS Schools Course «JavaScript/Front-end. Stage 0»
 *******
 ## Languages
 
-English - Intermediate/Upper-intermediate
-Russian - Native
-Belarussian - Native
+* **English** - Intermediate/Upper-intermediate
+* **Russian** - Native
+* **Belarussian** - Native
