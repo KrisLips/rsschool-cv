@@ -13,11 +13,11 @@ Highly organized and motivated professional with a strong commitment to continuo
 *******
 ## Skills
 
-*HTML5, CSS3
-*JavaScript Basics
-*VS Code
-*Adobe Photoshop, Illustrator
-*Figma
+* HTML5, CSS3
+* JavaScript Basics
+* VS Code
+* Adobe Photoshop, Illustrator
+* Figma
 
 *******
 ## Code Examples
